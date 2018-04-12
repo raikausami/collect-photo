@@ -1,0 +1,17 @@
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_eye.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_eye_tree_eyeglasses.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_frontalcatface.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_frontalcatface_extended.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_frontalface_alt.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_frontalface_alt2.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_frontalface_alt_tree.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_frontalface_default.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_fullbody.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_lefteye_2splits.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_licence_plate_rus_16stages.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_lowerbody.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_profileface.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_righteye_2splits.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_russian_plate_number.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_smile.xml
+C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades\haarcascade_upperbody.xml

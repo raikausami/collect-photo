@@ -9,10 +9,13 @@ import re
 pattern = ".*\.(jpg|png|bmp)"
 files = [f for f in os.listdir() if re.search(pattern, f, re.IGNORECASE)]
 argvs = sys.argv
-cascade_path="/usr/local/Cellar/opencv/3.4.1_2/share/OpenCV/haarcascades/haarcascade_frontalface_alt.xml"
+#cascade_path="/usr/local/Cellar/opencv/3.4.1_2/share/OpenCV/haarcascades/haarcascade_frontalface_alt.xml"
+#cascade_path="C:\Users\Kunisawa\Anaconda3\envs\openCV\Library\etc\haarcascades"
 #for x in os.listdir():
+cascade_path=argvs[2]
 for x in files:
     image_path=x
+    print(image_path)
     if os.path.isfile(x):
         for num in range(20):
             image=cv2.imread(image_path)
